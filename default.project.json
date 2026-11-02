@@ -1,15 +1,10 @@
 {
-  "name": "Xuau",
+  "name": "L4A",
   "tree": {
     "$className": "DataModel",
-
-    "ReplicatedFirst": {
-      "$path": "src/RobloxTest"
-    },
-
     "ReplicatedStorage": {
-      "Xuau": {
-        "$path": "src/Xuau"
+      "L4A": {
+        "$path": "src"
       }
     }
   }
